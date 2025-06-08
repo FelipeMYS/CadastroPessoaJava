@@ -20,6 +20,7 @@ public class ValidaData {
 		}
 	}
 	
+	@SuppressWarnings("unused")
 	public static boolean isMes(String str) {
 			
 			if (str == null || str.trim().isEmpty()) {
